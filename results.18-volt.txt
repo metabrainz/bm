@@ -1,0 +1,135 @@
+815ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+789ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1605ms	total duration
+890ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+856ms	200	http://ia600804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1747ms	total duration
+861ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+779ms	200	http://ia600804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1641ms	total duration
+841ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+810ms	200	http://ia600804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1652ms	total duration
+824ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+772ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1597ms	total duration
+807ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+810ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1617ms	total duration
+826ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+752ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1578ms	total duration
+814ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+743ms	200	http://ia600804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1558ms	total duration
+812ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+770ms	200	http://ia600804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1583ms	total duration
+848ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+797ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1646ms	total duration
+819ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+787ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1607ms	total duration
+842ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+812ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1655ms	total duration
+833ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+834ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1668ms	total duration
+822ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+819ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1641ms	total duration
+888ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+797ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1686ms	total duration
+817ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+769ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1586ms	total duration
+802ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+767ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1570ms	total duration
+812ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+782ms	200	http://ia600804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1595ms	total duration
+789ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+816ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1606ms	total duration
+878ms	302	http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+781ms	200	http://ia700804.us.archive.org/35/items/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1659ms	total duration
+------------------------------------
+URL:     http://archive.org/download/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+Count:   20
+Min:     1558ms
+Max:     1747ms
+Average: 1625ms
+
+
+
+843ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+710ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1554ms	total duration
+1227ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+711ms	200	http://ia700804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1938ms	total duration
+936ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+756ms	200	http://ia700804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1692ms	total duration
+1047ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+737ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1785ms	total duration
+1451ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+659ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+2110ms	total duration
+797ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+781ms	200	http://ia700804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1579ms	total duration
+861ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+831ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1692ms	total duration
+1249ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+697ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1946ms	total duration
+849ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+680ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1530ms	total duration
+1743ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+717ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+2460ms	total duration
+1906ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+692ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+2599ms	total duration
+836ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+713ms	200	http://ia700804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1549ms	total duration
+886ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+732ms	200	http://ia700804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1619ms	total duration
+1223ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+680ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1904ms	total duration
+865ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+781ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1646ms	total duration
+936ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+716ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1653ms	total duration
+901ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+734ms	200	http://ia700804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1635ms	total duration
+872ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+823ms	200	http://ia700804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1696ms	total duration
+884ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+747ms	200	http://ia700804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1632ms	total duration
+822ms	307	http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+745ms	200	http://ia600804.s3dns.us.archive.org:82/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+1567ms	total duration
+------------------------------------
+URL:     http://s3.us.archive.org/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7/mbid-aff4a693-5970-4e2e-bd46-e2ee49c22de7-379410348.jpg
+Count:   20
+Min:     1530ms
+Max:     2599ms
+Average: 1789ms
